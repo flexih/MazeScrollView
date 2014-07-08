@@ -54,8 +54,8 @@
 		7127660F196BDEA0008381D7 /* DemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DemoTests-Info.plist"; sourceTree = "<group>"; };
 		71276611196BDEA0008381D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		71276613196BDEA0008381D7 /* DemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoTests.m; sourceTree = "<group>"; };
-		7127661D196BDEDA008381D7 /* MazeScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeScrollView.h; sourceTree = "<group>"; };
-		7127661E196BDEDA008381D7 /* MazeScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MazeScrollView.m; sourceTree = "<group>"; };
+		7127661D196BDEDA008381D7 /* MazeScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MazeScrollView.h; path = ../../MazeScrollView.h; sourceTree = "<group>"; };
+		7127661E196BDEDA008381D7 /* MazeScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MazeScrollView.m; path = ../../MazeScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
